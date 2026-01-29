@@ -1,3 +1,5 @@
+**English** | [中文](README-zh.md)
+
 # Hi, I'm idoubi 👋
 
 📍 Guangzhou, China | 🚀 Indie Hacker | 📖 Author of "This is MCP"
@@ -55,3 +57,9 @@ Goal: Ship a Manus-level Agent product in one day.
 - 💻 GitHub: [@idoubi](https://github.com/idoubi)
 - 📧 Website: [idoubi.ai](https://idoubi.ai)
 - 📱 WeChat: [QR Code](https://zknown-1251007641.cos.ap-guangzhou.myqcloud.com/images/20240105113843.png)
+
+---
+
+_"有逻辑的脑子万里挑一" — A logical mind is one in a million._
+
+_"难能可贵是自由" — Freedom is precious._
