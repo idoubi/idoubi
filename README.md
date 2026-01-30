@@ -1,8 +1,6 @@
-**English** | [中文](README-zh.md)
-
 # Hi, I'm idoubi 👋
 
-📍 Guangzhou, China | 🚀 Indie Hacker | 📖 Author of "This is MCP"
+📍 Guangzhou, China | 🚀 Indie Hacker
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -11,45 +9,25 @@
 ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
 
-> All in AI — Building AI-powered products for the global market. After 5 years at Tencent, quit to become an indie developer in 2023.
+> Building AI-powered products for the global market. After 5 years at Tencent, quit to become an indie developer in 2023.
 
 🔗 [idoubi.ai](https://idoubi.ai) — My personal website with blog posts about AI, indie hacking, and full-stack development.
 
 ## Current Projects
 
-- 🌐 [MCP.so](https://mcp.so) - The largest MCP servers directory. 11M visits & 1.5M users in 2025
-- 🚀 [ShipAny](https://shipany.ai) - AI SaaS starter kit for rapid product development
+- 💼 [WorkAny](https://workany.ai) - Desktop agent for working faster at any job.
+- 🚀 [ShipAny](https://shipany.ai) - AI SaaS starter kit to ship products in hours.
 - 🔍 [ThinkAny](https://thinkany.ai) - AI-powered search engine
+- 🌐 [MCP.so](https://mcp.so) - The largest MCP servers directory. 11M visits & 1.5M users in 2025
+- 🖼️ [CopyWeb](https://copyweb.ai) - AI-powered website cloning tool
 - 🎙️ [PodLM](https://podlm.ai) - AI podcast generator (NotebookLM alternative)
 - 👗 [HeyBeauty](https://heybeauty.ai) - AI virtual try-on for fashion
-- 🖼️ [CopyWeb](https://copyweb.ai) - AI-powered website cloning tool
-- 🎨 [Pagen](https://pagen.so) - AI landing page generator
-- 🛠️ MCPRouter - Cloud-based MCP tools platform (building)
-
-## Open Source
-
+- 🎨 [Pagen](https://github.com/all-in-aigc/pagen-ai-landing-page-template) - AI landing page generator
+- 🛠️ [MCPRouter](https://github.com/chatmcp/mcprouter) - Cloud-based MCP tools platform (building)
 - 🎵 [melodisco](https://github.com/all-in-aigc/melodisco) - AI music player
 - 🧧 [aicover](https://github.com/all-in-aigc/aicover) - AI red envelope cover generator
+- 🖼️ [aiwallpaper](https://github.com/all-in-aigc/aiwallpaper) - AI wallpaper generator
 - 🌟 [gpts-works](https://github.com/all-in-aigc/gpts-works) - GPTs directory
-- 🔌 [mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) - MCP server for chat summarization
-
-## Writing
-
-- 📚 **"This is MCP"** (《这就是 MCP》) - Published August 2025, 3700+ copies sold
-- ✍️ [My AI Journey 2025](/blog/my-ai-2025) - MCP, Agent, AI Coding
-- ✍️ [My AI Journey 2024](/blog/my-ai-2024) - Chasing AI trends
-- ✍️ [Building an AI Search Engine](/blog/ai-search-engine) - 20k words deep dive
-
-## Speaking
-
-- 🎤 GTLC 2025 - Star Speaker Award
-- 🎤 AI Con 2025 - Star Speaker Award
-
-## 2026 Focus
-
-Building **Agent Infra** — Framework + Tools + Sandbox for rapid Agent development.
-
-Goal: Ship a Manus-level Agent product in one day.
 
 ## Connect
 
@@ -57,9 +35,3 @@ Goal: Ship a Manus-level Agent product in one day.
 - 💻 GitHub: [@idoubi](https://github.com/idoubi)
 - 📧 Website: [idoubi.ai](https://idoubi.ai)
 - 📱 WeChat: [QR Code](https://zknown-1251007641.cos.ap-guangzhou.myqcloud.com/images/20240105113843.png)
-
----
-
-_"有逻辑的脑子万里挑一" — A logical mind is one in a million._
-
-_"难能可贵是自由" — Freedom is precious._
