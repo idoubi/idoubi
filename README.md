@@ -8,6 +8,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-5A67D8?style=flat-square&logo=anthropic&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 > Building AI-powered products for the global market. After 5 years at Tencent, quit to become an indie developer in 2023.
 
