@@ -31,6 +31,7 @@
 - 🧧 [aicover](https://github.com/all-in-aigc/aicover) - AI red envelope cover generator
 - 🖼️ [aiwallpaper](https://github.com/all-in-aigc/aiwallpaper) - AI wallpaper generator
 - 🌟 [gpts-works](https://github.com/all-in-aigc/gpts-works) - GPTs directory
+- [Claude Fable 5](https://fable5.dev) - Anthropic's first public Mythos-class model, explained
 
 ## Connect
 
