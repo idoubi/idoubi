@@ -28,6 +28,7 @@
 - 🖼️ [CopyWeb](https://copyweb.ai) - AI-powered website cloning tool
 - 🎙️ [PodLM](https://podlm.ai) - AI podcast generator (NotebookLM alternative)
 - 👗 [HeyBeauty](https://heybeauty.ai) - AI virtual try-on for fashion
+- ☕️ [CodeFree](https://codefree.cafe) - Make something real, over coffee.
 
 ## Open Source Projects
 
