@@ -18,20 +18,32 @@
 
 ## Current Projects
 
-- 💼 [WorkAny](https://workany.ai) - Desktop agent for working faster at any job.
-- 🚀 [ShipAny](https://shipany.ai) - AI SaaS starter kit to ship products in hours.
+- 🚀 [ShipAny](https://shipany.ai) - Agent-native Framework
+- 🏭 [FastClaw](https://fastclaw.ai) - Agent Factory
+- ☁️ [CCOnline](https://cconline.sh) - Claude Code in your browser
+- 👭 [WeClaw](https://weclaw.im) - Your first AI Friend
+- 💼 [WorkAny](https://workany.ai) - Desktop agent for working faster at any job
 - 🔍 [ThinkAny](https://thinkany.ai) - AI-powered search engine
 - 🌐 [MCP.so](https://mcp.so) - The largest MCP servers directory. 11M visits & 1.5M users in 2025
 - 🖼️ [CopyWeb](https://copyweb.ai) - AI-powered website cloning tool
 - 🎙️ [PodLM](https://podlm.ai) - AI podcast generator (NotebookLM alternative)
 - 👗 [HeyBeauty](https://heybeauty.ai) - AI virtual try-on for fashion
+
+## Open Source Projects
+
+- 🚀 [FastClaw](https://github.com/fastclaw-ai/fastclaw) - Multi-Agent Framework
+- 🛰 [WeClaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot
+- 🔗 [AnyClaw](https://github.com/fastclaw-ai/anyclaw) - The universal tool adapter for AI agents
+- 🫧 [ChatClaw](https://github.com/fastclaw-ai/chatclaw) - Multi-agent chat platform
+- 🦞 [ClawHost](https://github.com/fastclaw-ai/clawhost) - Openclaw hosting service
+- 💻 [CodeAny](https://github.com/codeany-ai/codeany) - Open-source AI-powered terminal agent
+- 👋 [open-agent-sdk](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies
 - 🎨 [Pagen](https://github.com/all-in-aigc/pagen-ai-landing-page-template) - AI landing page generator
 - 🛠️ [MCPRouter](https://github.com/chatmcp/mcprouter) - Cloud-based MCP tools platform (building)
 - 🎵 [melodisco](https://github.com/all-in-aigc/melodisco) - AI music player
 - 🧧 [aicover](https://github.com/all-in-aigc/aicover) - AI red envelope cover generator
 - 🖼️ [aiwallpaper](https://github.com/all-in-aigc/aiwallpaper) - AI wallpaper generator
 - 🌟 [gpts-works](https://github.com/all-in-aigc/gpts-works) - GPTs directory
-- [Claude Fable 5](https://fable5.dev) - Anthropic's first public Mythos-class model, explained
 
 ## Connect
 
